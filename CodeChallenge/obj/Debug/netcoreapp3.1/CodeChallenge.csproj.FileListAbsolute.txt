@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.exe
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.deps.json
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.runtimeconfig.json
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.runtimeconfig.dev.json
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.dll
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.pdb
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.dll
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.pdb
+E:\semester 2\pemograman\praktikum\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.genruntimeconfig.cache

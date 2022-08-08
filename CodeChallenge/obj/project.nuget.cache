@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTEeg6+AHUArvqjkKGTy9nUKLHO+mx+MDXsLc/euiOgDI4CaMu6uilHH9e6okh7rS54c7IzJK2Xkvn8FhbYaLA==",
+  "success": true,
+  "projectFilePath": "E:\\semester 2\\pemograman\\praktikum\\CodeChallenge\\CodeChallenge\\CodeChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
